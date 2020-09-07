@@ -12,7 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.10.3"
+    "mongoose": "^5.10.3",
+    "mongoose-auto-increment": "^5.0.1",
+    "require-dir": "^1.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
